@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.0.0",
+    "chart.js": "^1.1.0",
+    "laravel-elixir": "^6.0.0-1",
+    "vue": "^1.0.20"
+  }
+}

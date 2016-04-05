@@ -1,0 +1,16 @@
+body, html {
+  height: 100%; }
+
+body {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  font-family: sans-serif; }
+
+h1 {
+  text-align: center; }
+
+/*# sourceMappingURL=app.css.map */
